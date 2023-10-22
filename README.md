@@ -35,4 +35,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/dachidavituri"> 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dachidavituri&theme=radical" alt="Dachi Davituri's GitHub Contribution"/>     </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dachidavituri&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
