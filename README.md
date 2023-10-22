@@ -31,4 +31,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<p align="center">   
+  <a href="https://github.com/dachidavituri"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dachidavituri&theme=radical" alt="Dachi Davituri's GitHub Contribution"/>     </a>
+</p>
 </div>
